@@ -1,5 +1,49 @@
 {
     "user":[
+        {
+            "id": 1,
+            "name": "Kirill",
+            "surname": "Shevchenko",
+            "photo_url": "https://toppng.com/uploads/preview/user-font-awesome-nuevo-usuario-icono-11563566658mjtfvilgcs.png",
+            "balance": "1500"
+        },
+        {}
+    ],
+    "products":[
+        {
+            "id": 2,
+            "name": "Фітнес-браслет Xiaomi Mi Band 6 Black",
+            "description": "Фітнес-браслет легко та швидко синхронізується зі смартфоном по бездротовому зв'язку Bluetooth 5.0, яка забезпечує надійне та стабільне з'єднання.",
+            "price": "1599",
+            "photo_url": "https://i.xiaomi.ua/u/CatalogueImage/pvm_xiaomi-mi-band-6-fitness-bracelet-nfc-original-001375991617718254f38286f38473.jpg"
+            
+        },
+        {
+            "id": 3,
+            "name": "Електрочайник Xiaomi O’COOKER Electric Kettle Green ",
+            "description": "В даний час стиль ретро широко використовується в сучасному дизайні, і неважко виявити, що все більше і більше пристроїв випускається в такому стилі, власне, як і електричний кухонний чайник O'COOKER.",
+            "price": "1899",
+            "photo_url": "https://i.xiaomi.ua/u/CatalogueImage/pvm_xiaomi-ocooker-electric-kettle-white-cs-sh01-0010292841575982220.jpg"
+            
+        },
+        {
+            "id": 4,
+            "name": "Ручний бездротовий пилосос Xiaomi Deerma VC01 Max White",
+            "description": "Пилососи стали незамінними пристроями у сучасних будинках. Якщо ви все ще думаєте про те, яку марку пилососа вибрати, акумуляторний пилосос Deerma VC01 Max — ідеальна пропозиція для вас.",
+            "price": "4399",
+            "photo_url": "https://i.xiaomi.ua/u/CatalogueImage/pvm_xiaomi-deerma-vc01-max-white-dem-vc01-max-100413341651319636.png"
+            
+        },
+        {
+            "id": 5,
+            "name": "Аудіоколонка ZMi Bluetooth Speaker",
+            "description": "Компанія ZMi розробила Bluetooth-динамік, який підтримує бездротову зарядку 20 Вт. Смартфон можна розмістити на зарядній поверхні динаміка горизонтально. Буде потрібно всього близько 39 хвилин часу, щоб зарядити акумулятор смартфона Xiaomi Mi 10 Pro на 50%",
+            "price": "1299",
+            "photo_url": "https://i.xiaomi.ua/u/CatalogueImage/pvm_audio-speaker-zmi-bluetooth-speaker-wireless-charging-20w-black-b508-001297121584968257.jpg"
+            
+        }
+        
+
         
     ]
 }
